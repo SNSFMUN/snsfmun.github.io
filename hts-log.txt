@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 04 Jul 2022 21:29:32 at https://www.snsmun.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.snsmun.in/ -O1 "C:\My Web Sites\SNSMUN" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/decodeURIComponent(e (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/feed.xml (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/version/ (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/b604fd33.min.css (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/0c9e55e0.min.css (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/f52e40aa.min.css (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/1b1c2694.min.css (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/74e60b57.min.css (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/801b74ab.chunk.min.js (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-classic.81c18245.chunk.min.js (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-responsive.e2fe8f79.chunk.min.js (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~common-site-members-dialogs.7602a3f3.chunk.min.css (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~common-site-members-dialogs.e6154c1d.chunk.min.js (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap.dc62ecd1.chunk.min.css (from https://www.snsmun.in/)
+21:29:57	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap.801b74ab.chunk.min.js (from https://www.snsmun.in/)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/1ff239ab.chunk.min.js (from https://www.snsmun.in/copy-of-resources)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-classic.406d4af8.chunk.min.js (from https://www.snsmun.in/copy-of-resources)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-responsive.0d8f7345.chunk.min.js (from https://www.snsmun.in/copy-of-resources)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap.de7925c1.chunk.min.css (from https://www.snsmun.in/copy-of-resources)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap.1ff239ab.chunk.min.js (from https://www.snsmun.in/copy-of-resources)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/7d0d5475.min.css (from https://www.snsmun.in/conference-mentors)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/ce776e38.min.css (from https://www.snsmun.in/schedule)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/cc2f24e9.chunk.min.js (from https://www.snsmun.in/committees-writeups)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-classic.82bf90f9.chunk.min.js (from https://www.snsmun.in/committees-writeups)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-responsive.f5d4f5c8.chunk.min.js (from https://www.snsmun.in/committees-writeups)
+21:30:33	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap.cc2f24e9.chunk.min.js (from https://www.snsmun.in/committees-writeups)
+21:30:41	Error: 	"Not Found" (404) at link https://www.snsmun.in/b8760986.min.css (from https://www.snsmun.in/background-guides)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/e98ddd9c.min.css (from https://www.snsmun.in/gallery-2016)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~common-site-members-dialogs.d27c43c1.chunk.min.js (from https://www.snsmun.in/gallery-2016)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/0f7f9461.chunk.min.js (from https://www.snsmun.in/delegate-manual)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-classic.3cbb3af5.chunk.min.js (from https://www.snsmun.in/delegate-manual)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-responsive.444f1da4.chunk.min.js (from https://www.snsmun.in/delegate-manual)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap.0f7f9461.chunk.min.js (from https://www.snsmun.in/delegate-manual)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/4e5c3325.chunk.min.js (from https://www.snsmun.in/position-paper-guide)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-classic.72cfcf01.chunk.min.js (from https://www.snsmun.in/position-paper-guide)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap-responsive.9a7d1101.chunk.min.js (from https://www.snsmun.in/position-paper-guide)
+21:30:47	Error: 	"Not Found" (404) at link https://www.snsmun.in/rb_wixui.thunderbolt~bootstrap.4e5c3325.chunk.min.js (from https://www.snsmun.in/position-paper-guide)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 15 seconds : 117 links scanned, 78 files written (16136607 bytes overall) [8286925 bytes received at 110492 bytes/sec], 11501155 bytes transferred using HTTP compression in 83 files, ratio 28%, 1.3 requests per connection
+(38 errors, 0 warnings, 0 messages)
